@@ -26,7 +26,7 @@
     "gulp-filter": "^4.0.0",
     "gulp-rename": "^1.2.2",
     "humanize-url": "^1.0.1",
-    "normalize-url": "^1.5.2",
+    "normalize-url": "^4.5.1",
     "slugify": "^1.1.0",
     "yeoman-generator": "^0.23.0",
     "yosay": "^1.0.0"
